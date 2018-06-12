@@ -1,0 +1,13 @@
+body{
+	background-color:#3ad7ff;
+}
+
+.logo{
+	display:block;
+	text-align:center;
+}
+
+.logo img{
+	width:500px;
+	text-align:center;
+}
